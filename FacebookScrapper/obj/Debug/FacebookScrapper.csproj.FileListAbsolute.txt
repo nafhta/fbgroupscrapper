@@ -1,0 +1,17 @@
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\FacebookScrapper.exe.config
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\FacebookScrapper.exe
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\FacebookScrapper.pdb
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\EntityFramework.dll
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\System.Data.SQLite.dll
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\EntityFramework.xml
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\System.Data.SQLite.xml
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\obj\Debug\FacebookScrapper.csprojAssemblyReference.cache
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\obj\Debug\FacebookScrapper.csproj.CoreCompileInputs.cache
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\obj\Debug\FacebookScrapper.csproj.CopyComplete
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\obj\Debug\FacebookScrapper.exe
+C:\Users\Netactica\Source\Repos\FacebookScrapper\FacebookScrapper\obj\Debug\FacebookScrapper.pdb
