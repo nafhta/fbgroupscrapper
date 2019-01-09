@@ -106,11 +106,12 @@ namespace ConsoleApp1
             foreach(var result in results)
             {
 
-                string existQuery = $"SELECT * FROM posts WHERE title = '{result.title}'";
+                string existQuery = $"SELECT * FROM posts WHERE title = '{result.title}' AND publishername = '{result.publisherName}'";
                 SQLiteCommand existCommand = new SQLiteCommand(existQuery, sql_con);
                 SQLiteDataReader reader = existCommand.ExecuteReader();
 
-                if (reader.HasRows){
+                if (reader.HasRows)
+                {
                     continue;
                 }
 
